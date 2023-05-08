@@ -1,4 +1,4 @@
-hw1/models
-hw1/*.csv
-hw1/test.py
-hw1/runs
+hw01/models
+hw01/*.csv
+hw01/test.py
+hw01/runs
