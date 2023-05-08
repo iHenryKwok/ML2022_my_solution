@@ -1,0 +1,4 @@
+hw1/models
+hw1/*.csv
+hw1/test.py
+hw1/runs
