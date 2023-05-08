@@ -8,4 +8,5 @@
 
 ## reference
 
-[bilibili - L2 regularization](https://www.bilibili.com/video/BV1Tx411j7tJ/?share_source=copy_web&vd_source=b8a74c31cf889b7b8d55fe631e25ab94)
+- [bilibili - L2 regularization](https://www.bilibili.com/video/BV1Tx411j7tJ/?share_source=copy_web&vd_source=b8a74c31cf889b7b8d55fe631e25ab94)
+- [Regularization](https://love2017.asia/2021/08/14/pytorchtrain6/)
