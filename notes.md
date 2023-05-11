@@ -8,6 +8,28 @@ HUNG-YI LEE 李宏毅@NTU
 
 ## week 1
 
+### lec 2021 1
+
+Training
+
+```mermaid
+graph LR
+step1([func with unknown]) --> step2([define loss from training data]) --> step3([optimization])
+```
+
+1 epoch = see all the batches once (during optimization period)
+
+1. compute gradient $g = \gradient L^1(\theta^0)$
+2. updata $\theta^1\leftarrow\theta^0-\eta g$
+3. compute gradient $g = \gradient L^2(\theta^1)$
+4. updata $\theta^2\leftarrow\theta^1-\eta g$
+5. compute gradient $g = \gradient L^3(\theta^2)$
+6. updata $\theta^3\leftarrow\theta^2-\eta g$
+
+
+
+
+
 ### lec 1
 
 ML = looking for a function
@@ -134,7 +156,23 @@ for x in tt_set:
       preds.append(pred.cpu())
 ```
 
+### tut 2
+
+Hw1 notes
+
+### tut 3
+
+colab
+
+- Using an exclamation mark (!) starts a new shell, does the operations, and then kills that shell
+- percentage (%) aﬀects the process associated with the notebook, and it is called a magic command.
+- Use % instead of ! for cd (change directory) command
+
+use `nvidia-smi` to check the allocated GPU type
 
 
 
+Colab disconnect if idle timeout(90 min., sometimes varying) or when your screen goes black
+
+solution: keep your screen on or try using javascript
 

@@ -2,9 +2,10 @@
 
 ## 機器學習 Machine Learning 2022 Spring Hung-Yi Lee@NTU
 
-- [course website](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php): find slides and video here
-- [GitHub](https://github.com/ga642381/ML2021-Spring/tree/main): find homework and corresponding slides here
-- last year's github repo: [ML2021-Spring](https://github.com/ga642381/ML2021-Spring/tree/main)
+- [course website 2022](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php): find slides and video here
+- [course website 2021](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php): find slides and video here
+- [GitHub ML2022-Spring](https://github.com/virginiakm1988/ML2022-Spring): find homework and corresponding slides here
+- [GitHub ML2021-Spring](https://github.com/ga642381/ML2021-Spring/tree/main): last year's github repo
 
 ## 15 Homeworks
 * HW1 : Regression [[Video]](https://youtu.be/cFIImk_yBTg) 
@@ -46,11 +47,19 @@
 > ✅ review the ***slides***
 
 - 2/18 Lecture 1:Introduction of Deep Learning
-    - [ ] [Preparation video 1](https://www.youtube.com/watch?v=Ye018rCVvOo&ab_channel=Hung-yiLee)
-    - [ ] [Preparation video 2](https://www.youtube.com/watch?v=bHcJCp2Fyxs&ab_channel=Hung-yiLee)
+    - [x] [Preparation video 1](https://www.youtube.com/watch?v=Ye018rCVvOo&ab_channel=Hung-yiLee) ✅
+    - [x] [Preparation video 2](https://www.youtube.com/watch?v=bHcJCp2Fyxs&ab_channel=Hung-yiLee) ✅
     - [x] [【機器學習2022】開學囉~ 又要週更了~ - YouTube](https://www.youtube.com/watch?v=7XZR0-4uS5s&list=PLJV_el3uVTsPM2mM-OQzJXziCGJa8nJL8&index=2&ab_channel=Hung-yiLee) ✅
     - [x] [ML 2022 PyTorch Tutorial 1 - YouTube](https://www.youtube.com/watch?v=85uJ9hSaXig&ab_channel=Hung-yiLee) ✅
-    - [x] [ML 2022 PyTorch Tutorial 2 - YouTube](https://www.youtube.com/watch?v=VbqNn20FoHM&ab_channel=Hung-yiLee) 
-    - [x] [ML 2022 PyTorch Tutorial Colab - YouTube](https://www.youtube.com/watch?v=YmPF0jrWn6Y&ab_channel=Hung-yiLee) 
+    - [x] [ML 2022 PyTorch Tutorial 2 - YouTube](https://www.youtube.com/watch?v=VbqNn20FoHM&ab_channel=Hung-yiLee) ✅
+    - [x] [ML 2022 PyTorch Tutorial Colab - YouTube](https://www.youtube.com/watch?v=YmPF0jrWn6Y&ab_channel=Hung-yiLee) ✅
     - [x] [hw01](./hw01/)
 - 2/25	Lecture 2:What to do if my network fails to train
+    - [ ] [Preparation video 1](https://www.youtube.com/watch?v=WeHM2xpYQpw&ab_channel=Hung-yiLee)
+    - [ ] [Preparation video 2]
+    - [ ] [Preparation video 3]
+    - [ ] [Preparation video 4]
+    - [ ] [Preparation video 5]
+    - [ ] [【機器學習 2022】再探寶可夢、數碼寶貝分類器 — 淺談機器學習原理 - YouTube](https://www.youtube.com/watch?v=_j9MVVcvyZI&ab_channel=Hung-yiLee)
+
+
