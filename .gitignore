@@ -1,3 +1,4 @@
+.DS_Store
 hw01/models
 hw01/*.csv
 hw01/test.py

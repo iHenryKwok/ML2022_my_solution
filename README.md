@@ -55,8 +55,8 @@
     - [x] [ML 2022 PyTorch Tutorial Colab - YouTube](https://www.youtube.com/watch?v=YmPF0jrWn6Y&ab_channel=Hung-yiLee) ✅
     - [x] [hw01](./hw01/)
 - 2/25	Lecture 2:What to do if my network fails to train
-    - [ ] [Preparation video 1](https://www.youtube.com/watch?v=WeHM2xpYQpw&ab_channel=Hung-yiLee)
-    - [ ] [Preparation video 2]
+    - [x] [Preparation video 1](https://www.youtube.com/watch?v=WeHM2xpYQpw&ab_channel=Hung-yiLee)
+    - [x] [Preparation video 2](https://www.youtube.com/watch?v=QW6uINn7uGk&ab_channel=Hung-yiLee)
     - [ ] [Preparation video 3]
     - [ ] [Preparation video 4]
     - [ ] [Preparation video 5]
